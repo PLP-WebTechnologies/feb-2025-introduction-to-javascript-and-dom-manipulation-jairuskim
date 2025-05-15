@@ -1,0 +1,36 @@
+*{
+  background-color: aquamarine;
+  text-align: center;
+}
+#start-btn{
+background: pink;
+width: 150px;
+height: 100px;
+}
+#click_btn{
+  background-color: aliceblue;
+  width: 150px;
+  height: 100px;
+  transition: all 0.3s ease;
+  
+}
+#shape_btn{
+  background-color: brown;
+  color: whitesmoke;
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  transition: all 0.3s ease;
+}
+#zoom-in{
+  background: #000;
+  color: bisque;
+  width: 150px;
+  height: 100px;
+}
+#submit-btn{
+  background-color: rgb(13, 13, 168);
+  width: 150px;
+  height: 50px;
+  color: rgb(150, 142, 134);
+}
